@@ -14,6 +14,14 @@
 
 ---
 
+### Screenshot
+
+<p align="center">
+  <img src="screenshots/0.png" width="192" />
+</p>
+
+---
+
 ### Installation and execution
 
 1. Make a clone of this repository;
